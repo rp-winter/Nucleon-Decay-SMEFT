@@ -1,0 +1,50 @@
+\documentclass{article}
+\usepackage[a4paper, total={6in, 8in}]{geometry}
+\usepackage{booktabs}
+\usepackage{siunitx}
+\usepackage{graphicx}
+\usepackage{multirow}
+\begin{document}
+
+\section{Results}
+
+\input{latex/case1}
+\input{latex/case2}
+\input{latex/case3}
+
+\newpage
+
+\begin{figure}
+    \centering
+    \includegraphics[width=1.0\textwidth]{figures/case1/Case1_running_set1.pdf}
+    \caption{Running of Wilson Coefficients for Case 1}
+\end{figure}
+\begin{figure}
+    \centering
+    \includegraphics[width=1.0\textwidth]{figures/case2/Case2_running_set1.pdf}
+    \caption{Running of Wilson Coefficients for Case 2}
+\end{figure}
+\begin{figure}
+    \centering
+    \includegraphics[width=1.0\textwidth]{figures/case3/Case3_running_set1.pdf}
+    \caption{Running of Wilson Coefficients for Case 3}
+\end{figure}
+
+\begin{figure}
+    \centering
+    \includegraphics[width=1.0\textwidth]{figures/case1/Lambda_comparison_case1.pdf}
+    \caption{Comparison of $\Lambda$ values for Case 1}
+\end{figure}
+
+\begin{figure}
+    \centering
+    \includegraphics[width=1.0\textwidth]{figures/case2/Lambda_comparison_case2.pdf}
+    \caption{Comparison of $\Lambda$ values for Case 2}
+\end{figure}
+\begin{figure}
+    \centering
+    \includegraphics[width=1.0\textwidth]{figures/case3/Lambda_comparison_case3.pdf}
+    \caption{Comparison of $\Lambda$ values for Case 3}
+\end{figure}
+
+\end{document}
