@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.18)  1 NOV 2025 14:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.18)  6 NOV 2025 11:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"g:/My Drive/mathew/shyam/proton_decay/code/results/main.tex"
-(g:/My Drive/mathew/shyam/proton_decay/code/results/main.tex
+**"g:/My Drive/mathew/shyam/proton_decay/code/Nucleon-Decay-SMEFT/results/main.tex"
+(g:/My Drive/mathew/shyam/proton_decay/code/Nucleon-Decay-SMEFT/results/main.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-11>
 (c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
@@ -242,32 +242,32 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <figures/case1/Case1_running_set1.pdf, id=17, 867.24pt x 361.35pt>
 File: figures/case1/Case1_running_set1.pdf Graphic file (type pdf)
 <use figures/case1/Case1_running_set1.pdf>
-Package pdftex.def Info: figures/case1/Case1_running_set1.pdf  used on input line 19.
+Package pdftex.def Info: figures/case1/Case1_running_set1.pdf  used on input line 20.
 (pdftex.def)             Requested size: 433.62pt x 180.67456pt.
 <figures/case2/Case2_running_set1.pdf, id=18, 867.24pt x 361.35pt>
 File: figures/case2/Case2_running_set1.pdf Graphic file (type pdf)
 <use figures/case2/Case2_running_set1.pdf>
-Package pdftex.def Info: figures/case2/Case2_running_set1.pdf  used on input line 24.
+Package pdftex.def Info: figures/case2/Case2_running_set1.pdf  used on input line 25.
 (pdftex.def)             Requested size: 433.62pt x 180.67456pt.
 <figures/case3/Case3_running_set1.pdf, id=19, 867.24pt x 361.35pt>
 File: figures/case3/Case3_running_set1.pdf Graphic file (type pdf)
 <use figures/case3/Case3_running_set1.pdf>
-Package pdftex.def Info: figures/case3/Case3_running_set1.pdf  used on input line 29.
+Package pdftex.def Info: figures/case3/Case3_running_set1.pdf  used on input line 30.
 (pdftex.def)             Requested size: 433.62pt x 180.67456pt.
 <figures/case1/Lambda_comparison_case1.pdf, id=20, 578.16pt x 578.16pt>
 File: figures/case1/Lambda_comparison_case1.pdf Graphic file (type pdf)
 <use figures/case1/Lambda_comparison_case1.pdf>
-Package pdftex.def Info: figures/case1/Lambda_comparison_case1.pdf  used on input line 35.
+Package pdftex.def Info: figures/case1/Lambda_comparison_case1.pdf  used on input line 36.
 (pdftex.def)             Requested size: 433.62pt x 433.61893pt.
 <figures/case2/Lambda_comparison_case2.pdf, id=21, 578.16pt x 578.16pt>
 File: figures/case2/Lambda_comparison_case2.pdf Graphic file (type pdf)
 <use figures/case2/Lambda_comparison_case2.pdf>
-Package pdftex.def Info: figures/case2/Lambda_comparison_case2.pdf  used on input line 41.
+Package pdftex.def Info: figures/case2/Lambda_comparison_case2.pdf  used on input line 42.
 (pdftex.def)             Requested size: 433.62pt x 433.61893pt.
 <figures/case3/Lambda_comparison_case3.pdf, id=22, 578.16pt x 578.16pt>
 File: figures/case3/Lambda_comparison_case3.pdf Graphic file (type pdf)
 <use figures/case3/Lambda_comparison_case3.pdf>
-Package pdftex.def Info: figures/case3/Lambda_comparison_case3.pdf  used on input line 46.
+Package pdftex.def Info: figures/case3/Lambda_comparison_case3.pdf  used on input line 47.
 (pdftex.def)             Requested size: 433.62pt x 433.61893pt.
  [4 <./figures/case1/Case1_running_set1.pdf> <./figures/case2/Case2_running_set1.pdf>] [5 <./figures/case3/Case3_running_set1.pdf>] [6 <./figures/case1/Lambda_comparison_case1.pdf>] [7 <./figures/case2/Lambda_comparison_case2.pdf>] [8 <./figures/case3/Lambda_comparison_case3.pdf>] (./main.aux)
  ***********
@@ -277,16 +277,16 @@ L3 programming layer <2023-08-11>
  ) 
 Here is how much of TeX's memory you used:
  6448 strings out of 475189
- 160757 string characters out of 5767835
+ 160817 string characters out of 5767835
  1952248 words of memory out of 5000000
  27711 multiletter control sequences out of 15000+600000
  559279 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,13n,80p,339b,528s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,13n,80p,359b,528s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on main.pdf (8 pages, 188810 bytes).
+Output written on main.pdf (8 pages, 184860 bytes).
 PDF statistics:
- 373 PDF objects out of 1000 (max. 8388607)
+ 355 PDF objects out of 1000 (max. 8388607)
  89 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)

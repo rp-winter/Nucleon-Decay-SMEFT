@@ -1,8 +1,8 @@
-PWD g:/My Drive/mathew/shyam/proton_decay/code/results
+PWD g:/My Drive/mathew/shyam/proton_decay/code/Nucleon-Decay-SMEFT/results
 INPUT c:/texlive/2023/texmf.cnf
 INPUT c:/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT g:/My Drive/mathew/shyam/proton_decay/code/results/main.tex
+INPUT g:/My Drive/mathew/shyam/proton_decay/code/Nucleon-Decay-SMEFT/results/main.tex
 OUTPUT main.log
 INPUT c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
