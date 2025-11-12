@@ -6,7 +6,7 @@ This repository contains the code for the RG evolution of Baryon number violatin
 The main code is in the folder `d6py`. Various example are provided in the root directory as a notebook file to demonstrate how to use the package for different scenarios. The code for nucleon decay is provided in the three notebooks (.ipynb) for different cases as was given in the paper: [arXiv:2511.06106](https://arxiv.org/abs/2511.06106).
 ```
 NucleonDecaySMEFT/
-├── beta_functions.py      # Contains the different beta functions
+├── beta_functions/      # Contains all the text files for custom beta functions
 ├── d6py                 # Main package directory
 │   ├── __init__.py        # Initializes the package
 │   ├── BetaSMEFT.txt    # The default beta functions
