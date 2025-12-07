@@ -37,3 +37,8 @@ env/
 *.fdb_latexmk
 *.ini 
 *.fls
+
+# Test files
+test1.ipynb
+test2.ipynb
+test3.ipynb
